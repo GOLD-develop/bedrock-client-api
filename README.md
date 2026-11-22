@@ -1,6 +1,6 @@
 # bedrock-client-api
 
-マイクラ統合版に、パケットベースの外部スクリプト環境を提供するDLLです。
+マイクラ統合版にパケットベースの外部スクリプト環境を提供するDLLです
 
 ```js
 import { host, CommandPermissionLevel } from "bedrock-client-api";
